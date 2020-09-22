@@ -1,0 +1,22 @@
+{
+  "name": "@v8os/social-share-button-js",
+  "version": "0.1.0",
+  "description": "Npm package to add social share buttons to your Rails site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daqing/social-share-button-js.git"
+  },
+  "author": "David Zhang <v8os.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daqing/social-share-button-js/issues"
+  },
+  "homepage": "https://github.com/daqing/social-share-button-js#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}

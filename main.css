@@ -1,0 +1,118 @@
+.social-share-button .ssb-icon {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  display: inline-block;
+  height: 18px;
+  width: 18px;
+}
+
+.social-share-button .ssb-twitter {
+  background-image: url('~@v8os/social-share-button-js/images/twitter.svg')
+}
+
+.social-share-button .ssb-facebook {
+  background-image: url('~@v8os/social-share-button-js/images/facebook.svg')
+}
+
+.social-share-button .ssb-google_bookmark {
+  background-image: url('~@v8os/social-share-button-js/images/google_bookmark.svg')
+}
+
+.social-share-button .ssb-weibo {
+  background-image: url('~@v8os/social-share-button-js/images/weibo.svg')
+}
+
+.social-share-button .ssb-qq {
+  background-image: url('~@v8os/social-share-button-js/images/qq.svg')
+}
+
+.social-share-button .ssb-delicious {
+  background-image: url('~@v8os/social-share-button-js/images/delicious.svg')
+}
+
+.social-share-button .ssb-linkedin {
+  background-image: url('~@v8os/social-share-button-js/images/linkedin.svg')
+}
+
+.social-share-button .ssb-pinterest {
+  background-image: url('~@v8os/social-share-button-js/images/pinterest.svg')
+}
+
+.social-share-button .ssb-douban {
+  background-image: url('~@v8os/social-share-button-js/images/douban.svg')
+}
+
+.social-share-button .ssb-wechat {
+  background-image: url('~@v8os/social-share-button-js/images/wechat.svg')
+}
+
+.social-share-button .ssb-vkontakte {
+  background-image: url('~@v8os/social-share-button-js/images/vkontakte.svg')
+}
+
+.social-share-button .ssb-odnoklassniki {
+  background-image: url('~@v8os/social-share-button-js/images/odnoklassniki.svg')
+}
+
+.social-share-button .ssb-xing {
+  background-image: url('~@v8os/social-share-button-js/images/xing.svg')
+}
+
+.social-share-button .ssb-email {
+  background-image: url('~@v8os/social-share-button-js/images/email.svg')
+}
+
+.social-share-button .ssb-reddit {
+  background-image: url('~@v8os/social-share-button-js/images/reddit.svg')
+}
+
+.social-share-button .ssb-hacker_news {
+  background-image: url('~@v8os/social-share-button-js/images/hacker_news.svg')
+}
+
+.social-share-button .ssb-telegram {
+  background-image: url('~@v8os/social-share-button-js/images/telegram.svg')
+}
+
+.ss-wechat-dialog {
+  width: 300px;
+  position: fixed;
+  background: #fff;
+  padding: 15px;
+  border-radius: 3px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.15);
+  z-index: 11001;
+  font-size: 14px;
+  line-height: 1.2em;
+}
+
+.ss-wechat-dialog .wechat-popup-header {
+  font-weight: bold;
+}
+
+.ss-wechat-dialog .wechat-dialog-qr {
+  text-align: center;
+  margin: 25px 0;
+}
+
+.ss-wechat-dialog .wechat-dialog-qr canvas {
+  margin: 0 auto;
+}
+
+.ss-wechat-dialog .wechat-popup-close {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  color: #999;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.ss-wechat-dialog .wechat-popup-footer {
+  text-align: left;
+  line-height: 22px;
+  color: #666;
+}
