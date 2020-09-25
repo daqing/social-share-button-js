@@ -7,6 +7,10 @@
   width: 18px;
 }
 
+.ssb-link {
+  background-image: url('~@v8os/social-share-button-js/images/link.svg')
+}
+
 .social-share-button .ssb-twitter {
   background-image: url('~@v8os/social-share-button-js/images/twitter.svg')
 }
